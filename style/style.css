@@ -217,6 +217,7 @@ text-align: center;
 .target-box-contener{
     display: flex;
     gap: 20px;
+    width: 80%;
 
 }
 .target-contener{
